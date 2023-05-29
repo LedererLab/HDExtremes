@@ -21,4 +21,4 @@ view the MIT license, please consult `LICENSE.txt`.
 
 ## References
 
-[Lederer, J. and Oesting M., 2023. Extremes in High Dimensions: Methods and Scalable Algorithms. arXiv.](https://arxiv.org/abs/2303.04258).
+[Lederer, J. and Oesting M., 2023. Extremes in High Dimensions: Methods and Scalable Algorithms. *arXiv.*](https://arxiv.org/abs/2303.04258)
